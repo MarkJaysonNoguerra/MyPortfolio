@@ -2862,6 +2862,7 @@
 /* Header */
 
 	#page-wrapper {
+		background: #3b3131;
 		padding-top: 3em;
 	}
 
@@ -3450,6 +3451,7 @@
 		/* Header */
 
 			#page-wrapper {
+				background: #3b3131;
 				padding-top: 0;
 			}
 
@@ -3462,6 +3464,7 @@
 		/* Nav */
 
 			#page-wrapper {
+				background: #3b3131;
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
